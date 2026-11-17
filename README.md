@@ -2,7 +2,7 @@
 
 Opus Client is a Minecraft Java Edition client currently under active development.
 
-This repository contains the public documentation for the Opus project. The launcher, runtime, and internal infrastructure are proprietary. Opus Optim is developed in a separate public repository.
+This repository contains the public documentation for Opus Client. The launcher, runtime, website, and internal infrastructure are proprietary. Opus Optim is developed in a separate public repository.
 
 ## Components
 
@@ -13,10 +13,10 @@ This repository contains the public documentation for the Opus project. The laun
 
 ## Development status
 
-Opus is a work in progress. Features, APIs, supported platforms, and release plans may change.
+Opus Client is a work in progress. Features, APIs, supported platforms, and release plans may change.
 
 ## Source availability
 
-The implementation of Opus Launcher, Opus Runtime, and the main superproject is maintained in private repositories. Public documentation does not grant access to the implementation.
+Opus Launcher, Opus Runtime, and the main superproject are maintained in private repositories. Public documentation does not grant access to their implementation.
 
-[Opus Optim source](https://github.com/project-opusmc/opus-optim)
+[Opus Optim source](https://github.com/opusclient/optim)
